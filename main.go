@@ -12,7 +12,7 @@ func main() {
 	min, max := findMinAndMax(a)
 	fmt.Println("Min: ", min)
 	fmt.Println("Max: ", max)
-  //prints out the min and the max
+  //prints out the min and the max of the numbers
 
 }
 
